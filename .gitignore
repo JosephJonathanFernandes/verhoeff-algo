@@ -1,0 +1,18 @@
+# Build directories
+build/
+bin/
+lib/
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
